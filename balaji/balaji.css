@@ -1,0 +1,40 @@
+* {
+margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-image: url("washington.png");
+  background-position: center;
+  background-size: cover;
+  box-sizing:border-box;
+  position:relative;
+
+  
+  font-family: sans-serif;
+  
+}
+.b2-hack {
+  background: rgb(0,100,0);
+    text-align: center;
+  
+}
+.b2-hack ul {
+  display:inline-flex;
+  color: #fff;
+  list-style:none;
+
+}
+.b2-hack ul li {
+  width: 120px;
+  margin:15px;
+  padding: 15px;
+  
+}.b2-hack ul li a {
+text-decoration:none;
+  color:#fff;
+}
+.balaji, .b2-hack ul li:hover {
+  background: #2bab0d;
+  border-radius: 50px;
+} 

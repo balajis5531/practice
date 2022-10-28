@@ -1,1 +1,38 @@
-# practice
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css" type="text/css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,400;0,600;1,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/fontawesome.min.css">
+  
+  </head>
+  <body>
+    <section class="header">
+      <nav>
+        <a href="index.html"><img src="fresh.jpg" alt="Image description" /></a>
+        <div class="nav-links">
+          <i class="fa fa-window-close"></i>
+          <ul> 
+            <li><a href="">HOME</a></li>
+            <li><a href="">ABOUT</a></li>
+            <li><a href="">COURSE</a></li>
+            <li><a href="">BLOG</a></li>		
+            <li><a href="">CONTACT</a></li>
+
+          </ul>
+          </div>
+        <i class="fa fa-bars"></i>
+          </nav>
+      <div class="text-box">
+        <h1>Freshworks academy</h1>
+        <p>it is freshworks give training and place in our company traing student ,student join in diploma finish or 12 th finish.</p>
+      <a href="" class="hero-btn">visit us to know more</a>
+      
+      </div>
+	  </section>
+
+      </body>
+    </html>
